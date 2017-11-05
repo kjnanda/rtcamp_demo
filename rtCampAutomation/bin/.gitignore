@@ -1,1 +1,5 @@
-/testdemo
+/bin/testdemo
+/.settings
+/test-output
+/.classpath
+/.project
